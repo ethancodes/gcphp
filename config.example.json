@@ -1,0 +1,7 @@
+{
+  "username"   : "you@wherever.com",
+  "apikey"     : "your-api-key-from-gathercontent",
+  "account_id" : "12345",
+  "project_id" : "123456",
+  "debug"      : false
+}
